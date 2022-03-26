@@ -1,0 +1,6 @@
+# 忽略依赖模块包
+node_modules
+
+# 忽略package文件
+package-lock.json
+package.json
